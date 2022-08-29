@@ -121,11 +121,11 @@ fun main(args: Array<String>) {
         }
     }while (intento <= 3) //Cantidad de intentos de ingreso de usuario
 
-<<<<<<< HEAD
+
     //Comentario de prueba para mi rama 
 
-=======
+
     println("!El sistema está desactivado!")
     println("Intertar de nuevo")
->>>>>>> JaredR
+
 }
